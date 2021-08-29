@@ -1,7 +1,6 @@
 ======================USER GUID===============================
 
-Please down load code from Location GIT location: XXXXXXXXXXXXXXXXXXXXXXX
-
+Please down load code from Location GIT location: https://github.com/siddudamalla/MIcroSerrvicesApp.git
 I have implemented with micro serivice archtecure with API serivices
 
 1. UserService(UserService.zip) which is running on post : 9001
